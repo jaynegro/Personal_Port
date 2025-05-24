@@ -49,10 +49,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 const eventsData = {
     "2024-2025": [
-        { img: "/images/events/aquaintance.jpg", title: "Aquaintance Party", desc: "A lively event filled with music, dancing, and delicious food! It’s a night where students come together to socialize, enjoy performances, and have fun on the dance floor, making it a memorable start to the school year." },
-        { img: "/images/events/it week.jpg", title: "Compfest", desc: "A week-long celebration of technology and innovation, featuring coding competitions, tech talks, workshops, and exhibitions that showcase the latest advancements in the IT field." },
-        { img: "/images/events/nstp.jpg", title: "Voluntary Program", desc: "A community outreach program under the National Service Training Program (NSTP), where students engage in volunteer activities such as environmental cleanups, educational outreach, and social services to promote civic responsibility." },
-        { img: "/images/events/foundation.jpeg", title: "Foundation Day", desc: "A grand celebration honoring the school’s history and achievements, filled with parades, performances, academic competitions, and various activities that strengthen school spirit and tradition.." }
+        { img: "../images/events/aquaintance.jpg", title: "Aquaintance Party", desc: "A lively event filled with music, dancing, and delicious food! It’s a night where students come together to socialize, enjoy performances, and have fun on the dance floor, making it a memorable start to the school year." },
+        { img: "../images/events/it week.jpg", title: "Compfest", desc: "A week-long celebration of technology and innovation, featuring coding competitions, tech talks, workshops, and exhibitions that showcase the latest advancements in the IT field." },
+        { img: "../images/events/nstp.jpg", title: "Voluntary Program", desc: "A community outreach program under the National Service Training Program (NSTP), where students engage in volunteer activities such as environmental cleanups, educational outreach, and social services to promote civic responsibility." },
+        { img: "../images/events/foundation.jpeg", title: "Foundation Day", desc: "A grand celebration honoring the school’s history and achievements, filled with parades, performances, academic competitions, and various activities that strengthen school spirit and tradition.." }
     ],
     "2025-2026": [
         { img: "event3.jpg", title: "Science Fair", desc: "Students showcase their innovative science projects and experiments." },

@@ -51,21 +51,21 @@ const projects = [
       {
         title: "Trash to Coin Bin",
         category: "arduino",
-        image: "/images/Featured/Badminton.png",
+        image: "../images/Featured/Badminton.png",
         description: "Arduino-based system that gives ₱5 for 5 bottles.",
         link: "#"
       },
       {
         title: "Personal Portfolio Website",
         category: "web",
-        image: "/images/Featured/Badminton.png",
+        image: "../images/Featured/Badminton.png",
         description: "A responsive personal portfolio with project showcase.",
         link: "#"
       },
       {
         title: "School Enrollment System",
         category: "school",
-        image: "/images/Featured/Badminton.png",
+        image: "../images/Featured/Badminton.png",
         description: "Simple PHP-MySQL system for handling student enrollment.",
         link: "#"
       }
