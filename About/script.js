@@ -39,6 +39,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     titleLines.forEach(line => observer.observe(line));
 });
+
+
 document.addEventListener("DOMContentLoaded", function () {
     const titleLines = document.querySelectorAll(".nav-line");
 
